@@ -9,7 +9,8 @@ Follow these steps to get a copy of the project up and run on your local machine
 3. run **npm start** to run it.
 
 # Demo
-https://mangalyaan-1.herokuapp.com/
+old link - https://mangalyaan-1.herokuapp.com/
+new link - https://github.com/tezusingh/Mangalyaan
 
 # Languages used:
 HTML5, CSS, JAVASCRIPT
