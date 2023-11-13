@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mangalyaan/static/css/main.985e8204.chunk.css",
+    "main.js": "/Mangalyaan/static/js/main.d0ccd80e.chunk.js",
+    "main.js.map": "/Mangalyaan/static/js/main.d0ccd80e.chunk.js.map",
+    "runtime-main.js": "/Mangalyaan/static/js/runtime-main.16616611.js",
+    "runtime-main.js.map": "/Mangalyaan/static/js/runtime-main.16616611.js.map",
+    "static/js/2.f2c31736.chunk.js": "/Mangalyaan/static/js/2.f2c31736.chunk.js",
+    "static/js/2.f2c31736.chunk.js.map": "/Mangalyaan/static/js/2.f2c31736.chunk.js.map",
+    "static/js/3.0b5eccd1.chunk.js": "/Mangalyaan/static/js/3.0b5eccd1.chunk.js",
+    "static/js/3.0b5eccd1.chunk.js.map": "/Mangalyaan/static/js/3.0b5eccd1.chunk.js.map",
+    "index.html": "/Mangalyaan/index.html",
+    "static/css/main.985e8204.chunk.css.map": "/Mangalyaan/static/css/main.985e8204.chunk.css.map",
+    "static/js/2.f2c31736.chunk.js.LICENSE.txt": "/Mangalyaan/static/js/2.f2c31736.chunk.js.LICENSE.txt",
+    "static/media/node.css": "/Mangalyaan/static/media/weight.67b16217.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16616611.js",
+    "static/js/2.f2c31736.chunk.js",
+    "static/css/main.985e8204.chunk.css",
+    "static/js/main.d0ccd80e.chunk.js"
+  ]
+}
